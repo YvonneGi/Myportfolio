@@ -7,7 +7,7 @@
 .navigations{
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/photo1.jpg'); */
     background-color:#D35F6E;
-    height: 60vh;
+    height: 80vh;
     background-size: cover;
   }
 ul
@@ -47,7 +47,7 @@ h2
     font-size:25px;
     font-style: inherit;
     color:black;
-    margin-left: 5%;
+    margin-left: 40%;
 }
 em
 {
@@ -58,8 +58,8 @@ em
   border: 1px solid black;
   width: 10%;
   height: 10%;
-  margin-top: -2%;
-  margin-left: 5%;
+  margin-top: 5%;
+  /* margin-left: 5%; */
 
 }
 
